@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <a href='www.google.com'>Try</a>
+     <a href="https://www.google.com" className='text-blue-500 text-4xl'>Try</a>
     </div>
   );
 }
